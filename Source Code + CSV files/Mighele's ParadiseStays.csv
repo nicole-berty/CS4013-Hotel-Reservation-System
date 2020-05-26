@@ -1,0 +1,12 @@
+ID,Name,Number,Email,Check in Date,Stay Duration,No. of Rooms, Room Types,Total Cost,Deposit,Advanced
+1575219694,Steve Murray,856238970, Stevy120@gmail.com,2018-12-01,7,1,Bachelor Suite_1_false/,332.5,49.875,true
+1575224101,Darlene Bell,821379201, belld90@yahoo.com,2018-03-03,5,2,Two to Tango Suite_2_false/Bachelor Suite_1_false/,475.0,71.25,true
+1575224167,Franklin Vasquez,858920123, frankvas48@gmail.com,2018-03-04,5,2,Bachelor Suite_1_false/Bachelor Suite_1_false/,475.0,71.25,true
+1575224191,Maurice Craig,851281963, maurec@yahoo.com,2018-03-05,5,1,Bachelor Suite_1_false/,237.5,35.625,true
+1575224219,Shannon Reese,842139703, shannon.r701@gmail.com,2018-03-06,5,1,Bring the Family Suite_5_false/,237.5,35.625,true
+1575224263,Grace Park,874216891, park.g99@gmail.com,2018-03-07,10,2,Bring the Family Suite_5_false/Bring the Family Suite_5_false/,950.0,142.5,true
+1575224392,Karen Lowe,854206969, k.low420@gmail.com,2018-03-08,1,2,Two to Tango Suite_2_false/Bachelor Suite_1_false/,100.0,15.0,false
+1575224421,Erika Clarke,821678218, erika99@gmail.com,2018-03-09,2,1,Bring the Family Suite_5_false/,100.0,15.0,false
+1575224472,Ryan Kennedy,872579203, r.keny7@gmail.com,2018-03-10,3,1,Two to Tango Suite_2_false/,150.0,22.5,false
+1575224491,Eddie Walsh,842980326, waldie2@gmail.com,2018-03-11,6,1,Bring the Family Suite_5_false/,300.0,45.0,false
+1575225468,Maggie Elliott,827896380, magelli@gmail.com,2018-03-12,9,1,Two to Tango Suite_2_false/,450.0,67.5,false

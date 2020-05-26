@@ -1,0 +1,11 @@
+Hotel Name, Hotel type, Room type, Number of Rooms, Occupancy-min, Occupancy-max, Rates
+,,,,Adult-Child,Adult-Child,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+Mighele's Paradise,5,Bachelor Suite / Breakfast included,20,1-0,1,50.0,50.0,50.0,50.0,50.0,50.0,50.0
+,,Two to Tango Suite / Breakfast included,30,1-0,2,50.0,50.0,50.0,50.0,50.0,50.0,50.0
+,,Bring the Family Suite / Breakfast included,30,1-0,5,50.0,50.0,50.0,50.0,50.0,50.0,50.0
+SeanVille Suites,4,Single Room / Breakfast included,30,1-0,1,50.0,50.0,50.0,50.0,50.0,50.0,50.0
+,,Double Room / Breakfast not included,40,1-0,2,50.0,50.0,50.0,50.0,50.0,50.0,50.0
+,,Family Room / Breakfast included,30,1-0,5,50.0,50.0,50.0,50.0,50.0,50.0,50.0
+Marcin's Motel,3,Deluxe Room / Breakfast included,5,1-0,3,50.0,50.0,50.0,50.0,50.0,50.0,50.0
+,,Single Room / Breakfast not included,10,1-0,1,50.0,50.0,50.0,50.0,50.0,50.0,50.0
+,,Double Room / Breakfast not included,8,1-0,2,50.0,50.0,50.0,50.0,50.0,50.0,50.0

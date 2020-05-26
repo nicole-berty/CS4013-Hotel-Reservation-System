@@ -1,0 +1,11 @@
+ID,Name,Number,Email,Check in Date,Cancellation Date,No. of Rooms, Room Types, Total Cost,Deposit,Advanced
+1575220097,Ryan Kennedy,863215378, ryan.ken12@gmail.com,2023-12-02,0,1,Bring the Family Suite_5_false/,285.0,42.75,true
+1575220848,Tom Smith,872639123, smithy73@yahoo.com,2023-12-04,0,2,Bachelor Suite_1_false/Two to Tango Suite_2_false/,1140.0,171.0,true
+1575221126,Andrew Walsh,862539163, andsh12@yahoo.com,2023-12-04,0,1,Two to Tango Suite_2_false/,570.0,85.5,true
+1575222269,Graham Doyle,841364772, doyle21@gmail.com,2020-10-12,0,1,Bachelor Suite_1_false/,142.5,21.375,true
+1575222496,Gavin Murphy,830253661, gavy.mur6@yahoo.com,2020-12-20,0,2,Two to Tango Suite_2_false/Bachelor Suite_1_false/,1200.0,180.0,false
+1575222526,Mark Mccarthy,853675413, marky.mc1@gmail.com,2020-12-31,0,1,Bachelor Suite_1_false/,95.0,14.25,true
+1575222573,Derek Smith,862187921, dsmith63@gmail.com,2022-03-29,0,2,Bring the Family Suite_5_false/Bachelor Suite_1_false/,1140.0,171.0,true
+1575222648,Andy Murray,842784901, murryA@yahoo.com,2021-05-04,0,1,Bachelor Suite_1_false/,350.0,52.5,false
+1575219694,Steve Murray,856238970, Stevy120@gmail.com,2022-12-01,0,1,Bachelor Suite_1_false/,332.5,49.875,true
+1575223503,Jose Sandoval,879012673, josesand@yahoo.com,2023-04-04,0,1,Bring the Family Suite_5_false/,332.5,49.875,true

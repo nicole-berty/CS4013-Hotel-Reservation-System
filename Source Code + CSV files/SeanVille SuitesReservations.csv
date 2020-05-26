@@ -1,0 +1,13 @@
+ID,Name,Number,Email,Check in Date,Stay Duration,No. of Rooms, Room Types,Total Cost,Deposit,Advanced
+1575222877,John Smith,872559126, johnSmith1@gmail.com,2020-10-20,3,1,Single Room_1_false/,142.5,21.375,true
+1575222939,Mary Johnson,863521456, mary70@yahoo.com,2020-01-20,4,1,Double Room_2_false/,190.0,28.5,true
+1575223003,Nicole Berty,872835673, nicole@gmail.com,2020-02-01,5,1,Family Room_5_false/,237.5,35.625,true
+1575223409,John Wilson,867892345, johnWil@yahoo.com,2020-03-02,3,1,Double Room_2_false/,142.5,21.375,true
+1575223529,Laura O'Conor,867893476, lauraCon@gmail.com,2020-10-30,4,1,Family Room_5_false/,190.0,28.5,true
+1575223611,James Hally,857893456, james123@hotmail.com,2020-03-10,3,2,Family Room_5_false/Double Room_2_false/,285.0,42.75,true
+1575223811,Muireann Cuddihy,875674589, muireann@gmail.com,2020-04-05,3,1,Single Room_1_false/,142.5,21.375,true
+1575224010,Mighele Cavaliere,879876537, mighele@gmail.com,2019-12-20,3,1,Family Room_5_false/,142.5,21.375,true
+1575224182,Marion Power,879875643, marion@gmai.com,2022-10-20,10,1,Double Room_2_false/,475.0,71.25,true
+1575224235,Massi Hynes,892761523, massi.h@hotmaail.com,2020-10-31,5,1,Double Room_2_false/,237.5,35.625,true
+1575224314,Paddy Tow,897653562, paddy@hotmail.com,2020-03-02,4,1,Double Room_2_false/,190.0,28.5,true
+1575224407,Claire Molloy,8765456754, claire@gmail.com,2020-06-20,4,2,Double Room_2_false/Family Room_5_false/,380.0,57.0,true

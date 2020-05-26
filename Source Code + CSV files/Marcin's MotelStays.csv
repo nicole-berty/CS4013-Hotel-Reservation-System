@@ -1,0 +1,11 @@
+ID,Name,Number,Email,Check in Date,Stay Duration,No. of Rooms, Room Types,Total Cost,Deposit,Advanced
+1575223972,Marcin Sek,876754563, marcin@yahoo.com,2018-03-01,4,1,Double Room_2_false/,190.0,28.5,true
+1575224443,Claire Gormally,875542671, clarie@hotmail.com,2018-03-02,3,1,Family Room_5_false/,142.5,21.375,true
+1575224887,Scott James,876735642, scottjam@gmail.com,2018-03-03,4,1,Single Room_1_false/,200.0,30.0,false
+1575226251,Cathy Fitzpatrick,87675435, cathy@edex.ie,2018-03-04,3,1,Double Room_2_false/,142.5,21.375,true
+1575226310,Hansel Hanz,876754532, hanselhanz@gmail.com,2018-03-05,3,1,Double Room_2_false/,142.5,21.375,true
+1575227132,James Holly,87675642, jamesholly@gmail.com,2018-03-06,2,2,Single Room_1_false/Double Room_2_false/,190.0,28.5,true
+1575224263,Grace Park,874216891, park.g99@gmail.com,2018-03-07,10,2,Bring the Family Suite_5_false/Bring the Family Suite_5_false/,950.0,142.5,true
+1575224392,Karen Lowe,854206969, k.low420@gmail.com,2018-03-08,1,2,Two to Tango Suite_2_false/Bachelor Suite_1_false/,100.0,15.0,false
+1575224421,Erika Clarke,821678218, erika99@gmail.com,2018-03-09,2,1,Bring the Family Suite_5_false/,100.0,15.0,false
+1575224472,Ryan Kennedy,872579203, r.keny7@gmail.com,2018-03-10,3,1,Two to Tango Suite_2_false/,150.0,22.5,false

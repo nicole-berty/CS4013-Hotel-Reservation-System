@@ -1,0 +1,11 @@
+ID,Name,Number,Email,Check in Date,Cancellation Date,No. of Rooms, Room Types, Total Cost,Deposit,Advanced
+1575226098,Holly Gavin,872675647, hollygavin28@gmail.com,2020-07-07,0,1,Single Room_1_false/,200.0,30.0,false
+1575225914,Nathan George,876754632, nathanG@gamil.com,2020-03-21,0,1,Double Room_2_false/,142.5,21.375,true
+1575225852,Kit McKann,876785642, kitkann@gmail.com,2020-04-03,0,1,Family Room_5_false/,142.5,21.375,true
+1575225793,Michael Knight,876542635, michaelknight@yahoo.com,2020-08-02,0,1,Double Room_2_false/,285.0,42.75,true
+1575225677,Garreth Hynes,876752635, garrethhynes@gmail.com,2020-10-20,0,1,Family Room_5_false/,285.0,42.75,true
+1575225416,Kim Possible,876543456, kimpos@gmail.com,2020-09-07,0,1,Single Room_1_false/,142.5,21.375,true
+1575225333,Nicole Hanly,876756524, nicolehanly23@hotmail.com,2021-11-20,0,1,Double Room_2_false/,95.0,14.25,true
+1575225075,James Quirke,678563442, jquirke@yahoo.com,2020-02-10,0,1,Family Room_5_false/,300.0,45.0,false
+1575224961,Nik Hally,897654362, nikhally@gmail.com,2020-12-20,0,1,Double Room_2_false/,150.0,22.5,false
+1575224587,Nicole Hynes,876543562, nicole.hynes@gmail.com,2020-06-23,0,1,Family Room_5_false/,190.0,28.5,true

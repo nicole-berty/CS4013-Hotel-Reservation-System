@@ -1,0 +1,11 @@
+ID,Name,Number,Email,Check in Date,Stay Duration,No. of Rooms, Room Types,Total Cost,Deposit,Advanced
+1575222877,John Smith,872559126, johnSmith1@gmail.com,2020-10-20,3,1,Single Room_1_false/,142.5,21.375,true
+1575222939,Mary Johnson,863521456, mary70@yahoo.com,2020-01-20,4,1,Double Room_2_false/,190.0,28.5,true
+1575223003,Nicole Berty,872835673, nicole@gmail.com,2020-02-01,5,1,Family Room_5_false/,237.5,35.625,true
+1575223409,John Wilson,867892345, johnWil@yahoo.com,2020-03-02,3,1,Double Room_2_false/,142.5,21.375,true
+1575223529,Laura O'Conor,867893476, lauraCon@gmail.com,2020-10-30,4,1,Family Room_5_false/,190.0,28.5,true
+1575224392,Karen Lowe,854206969, k.low420@gmail.com,2020-03-03,1,2,Two to Tango Suite_2_false/Bachelor Suite_1_false/,100.0,15.0,false
+1575224421,Erika Clarke,821678218, erika99@gmail.com,2023-03-03,2,1,Bring the Family Suite_5_false/,100.0,15.0,false
+1575224472,Ryan Kennedy,872579203, r.keny7@gmail.com,2023-03-03,3,1,Two to Tango Suite_2_false/,150.0,22.5,false
+1575224491,Eddie Walsh,842980326, waldie2@gmail.com,2030-03-03,6,1,Bring the Family Suite_5_false/,300.0,45.0,false
+1575225468,Maggie Elliott,827896380, magelli@gmail.com,2020-03-03,9,1,Two to Tango Suite_2_false/,450.0,67.5,false

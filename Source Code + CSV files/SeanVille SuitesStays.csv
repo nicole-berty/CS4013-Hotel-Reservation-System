@@ -1,0 +1,11 @@
+ID,Name,Number,Email,Check in Date,Stay Duration,No. of Rooms, Room Types,Total Cost,Deposit,Advanced
+1575223058,Sean McDonald,852673543, sean456@hotmail.com,2019-10-20,3,1,Single Room_1_false/,142.5,21.375,true
+1575223270,Antoio DaVinci,872356748, anto@gmail.com,2019-09-24,5,1,Single Room_1_false/,237.5,35.625,true
+1575223714,Aisling Power,876543456, aislingp2019@gmail.com,2019-09-05,5,2,Double Room_2_false/Family Room_5_false/,475.0,71.25,true
+1575223853,Katie O'Byrne,873672561, katie@gmail.com,2019-03-02,3,1,Single Room_1_false/,142.5,21.375,true
+1575223972,Marcin Sek,876754563, marcin@yahoo.com,2019-04-20,4,1,Double Room_2_false/,190.0,28.5,true
+1575224443,Claire Gormally,875542671, clarie@hotmail.com,2019-06-05,3,1,Family Room_5_false/,142.5,21.375,true
+1575224887,Scott James,876735642, scottjam@gmail.com,2019-10-29,4,1,Single Room_1_false/,200.0,30.0,false
+1575226251,Cathy Fitzpatrick,87675435, cathy@edex.ie,2019-03-20,3,1,Double Room_2_false/,142.5,21.375,true
+1575226310,Hansel Hanz,876754532, hanselhanz@gmail.com,2019-09-20,3,1,Double Room_2_false/,142.5,21.375,true
+1575227132,James Holly,87675642, jamesholly@gmail.com,2019-08-07,2,2,Single Room_1_false/Double Room_2_false/,190.0,28.5,true
